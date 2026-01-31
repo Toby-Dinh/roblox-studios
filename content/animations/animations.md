@@ -42,6 +42,7 @@ NPC.Humanoid.Touched:Connect(function(hit)
 end)
 ```
 
+### Step 3: Check if NPC Hit a Humanoid
 Create a conditional to check if the NPC model has hit another humanoid (another NPC or player)
 and only proceed if the NPC is ready to deal damage by making sure hitReady = true
 
@@ -53,6 +54,7 @@ NPC.Humanoid.Touched:Connect(function(hit)
 end)
 ```
 
+### Step 4: Apply Cooldown to Prevent Rapid Attacks
 When the NPC is touching another humanoid, set hitReady to false so that the NPC cannot hit again immediately
 
 ```lua
@@ -63,6 +65,7 @@ NPC.Humanoid.Touched:Connect(function(hit)
 end)
 ```
 
+### Step 5: Deal Damage
 Deals damage to another humanoid by 20
 
 ```lua
@@ -74,7 +77,7 @@ NPC.Humanoid.Touched:Connect(function(hit)
 end)
 ```
 
-Add a cooldown for 1 second then set hitReady to true
+### Step 6: Add a cooldown for 1 second then set hitReady to true
 This makes the NPC wait 1 second before attacking again
 
 ```lua
