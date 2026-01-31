@@ -2,4 +2,5 @@ R6 animations only work on R6 characters and R15 animations only work on R15 cha
 
 First, let's get a NPC model from the toolbox. Since I'm going to use an R15 animation, I have to get an R15 character.
 
-[Watch video](../assets/0131.mp4)
+[![Video thumbnail](../assets/thumbnail.png)](../assets/0131.mp4)
+
