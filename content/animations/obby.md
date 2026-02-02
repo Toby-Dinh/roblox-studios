@@ -1,4 +1,9 @@
-# Designing
+---
+title: Disappearing Platform
+description: Creating a basic script that makes a platform disappear.
+---
+
+# Designing 
 ## Create Your Platforms
 
 First, create two platforms like the ones shown below.
