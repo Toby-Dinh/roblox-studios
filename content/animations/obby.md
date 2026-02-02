@@ -3,7 +3,6 @@ title: Disappearing Platform
 description: Creating a basic script that makes a platform disappear.
 ---
 
-# Designing 
 ## Create Your Platforms
 
 First, create two platforms like the ones shown below.
@@ -24,7 +23,6 @@ https://github.com/user-attachments/assets/72525bda-4a0e-43fb-8ea0-b547888cbbfe
 
 ---
 
-# Scripting
 ## First Variable
 
 Start by creating a variable for the platform. In Luau, variables are written as `local name = value` and are usually in camel case.
