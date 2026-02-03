@@ -1,3 +1,8 @@
+---
+title: Moving platform
+description: Creating a basic script that moves a platform left and right
+---
+
 ## Set Up
 
 ## 1. Create Your Parts
