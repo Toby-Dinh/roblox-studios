@@ -71,3 +71,9 @@ while true do
 	task.wait(2)
 end
 ```
+
+# Test your code and get creative!
+
+https://github.com/user-attachments/assets/8eaf7acc-9a0d-44f3-8a53-ce9a1640f879
+
+
