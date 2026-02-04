@@ -1,5 +1,7 @@
 # Movement in Roblox Studio: Holding Shift to Sprint Tutorial
 
+https://github.com/user-attachments/assets/f6deec26-8567-4605-a783-d45530abf60e
+
 To add movement mechanics to our players (like sprinting, walking, sliding), we need to start scripting in `StarterCharacterScripts`.
 
 > **Note:**  
